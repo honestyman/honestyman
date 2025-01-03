@@ -5,7 +5,7 @@
 
 - 📫 I'm always open to collaborations, discussions, and answering questions. Feel free to reach out.
 
-Let's not just adapt to the future; let's co-create it! Together, we'll explore the endless possibilities of Application, Web3, and Blockchain technologies. 🌟 #AI #Web3 #Blockchain #TechInnovation
+Let's not just adapt to the future; let's co-create it! Together, we'll explore the endless possibilities of Application, Web3, and Blockchain technologies. 🌟 #App #Web3 #Blockchain #TechInnovation
 
 <table align="center">
   <tr>
