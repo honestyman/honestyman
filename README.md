@@ -88,8 +88,8 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="graphql" />
-      <br>GraphQL
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="firebase" />
+      <br>Firebase
     </td>
   </tr>
   <tr>
