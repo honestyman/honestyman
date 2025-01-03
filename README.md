@@ -49,14 +49,6 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RestAPI
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -64,8 +56,12 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>GitHub-Action
     </td>
     <td align="center" width="90">
-     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-      <br/>GitHub
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" />
