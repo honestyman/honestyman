@@ -34,11 +34,11 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="45" height="45" />
       <br>Flutter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
       <br>React Native
     </td>
     <td align="center" width="90">
