@@ -52,6 +52,10 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
   </tr>
   <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="next" />
+      <br>Next
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="svelte" />
       <br>GitHub-Action
     </td>
@@ -87,15 +91,11 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="graphql" />
       <br>GraphQL
     </td>
-    <td align="center" width="90">
-     <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
-      <br>Apache2
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="D3.js" />
-      <br>Postman
+     <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Apache2" />
+      <br>Apache2
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
