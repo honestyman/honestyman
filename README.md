@@ -46,8 +46,8 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>RestAPI
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
     </td>
   </tr>
   <tr>
@@ -56,8 +56,8 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>GitHub-Action
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="svelte" />
-      <br>GitHub
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <br>RestAPI
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
