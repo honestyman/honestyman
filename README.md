@@ -38,11 +38,7 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>Flutter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react " alt="icon" width="55" height="55" />
-      <br>Flutter
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React Native
     </td>
     <td align="center" width="90">
