@@ -13,7 +13,11 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
       <br>JavaScript
     </td>
-       <td align="center" width="90">
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
     </td>
@@ -30,6 +34,18 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>Redux
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react " alt="icon" width="55" height="55" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React Native
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RestAPI
     </td>
@@ -41,15 +57,6 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
     </td>
-    <td align="center" width="90">
-     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
-<br/>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" />
-      <br>MongoDB
-    </td>
-   
   </tr>
   <tr>
     <td align="center" width="90">
@@ -57,16 +64,12 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>GitHub-Action
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="gitlab" />
-      <br>GitLab
+     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+      <br/>GitHub
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="bash" />
-      <br>Bash
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mongodb" />
+      <br>MongoDB
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Laravel" />
