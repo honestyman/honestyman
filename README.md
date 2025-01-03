@@ -52,7 +52,7 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="next" />
+      <img src="https://skillicons.dev/icons?i=next" width="45" height="45" alt="Next" />
       <br>Next
     </td>
     <td align="center" width="90">
