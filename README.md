@@ -39,7 +39,7 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="45" />
-      <br>React Native
+      <br>ReactNative
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
