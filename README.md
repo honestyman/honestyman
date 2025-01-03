@@ -56,11 +56,11 @@ Let's not just adapt to the future; let's co-create it! Together, we'll explore 
       <br>Next
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="svelte" />
+      <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="kotlin" />
       <br>Kotlin
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/swift.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="45" height="45" />
       <br>Swift
     </td>
     <td align="center" width="90">
