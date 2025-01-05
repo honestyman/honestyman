@@ -1,5 +1,5 @@
 
-### 🚀 App and Blockchain developer 🌐
+### 🚀 Full-Stact and Blockchain developer 🌐
 
 #### 🌍 Let's Connect:
 
